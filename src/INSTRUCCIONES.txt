@@ -1,0 +1,17 @@
+SISTEMA DE GESTIÓN DE CURSOS UTC 3.0
+
+1. Abre una terminal dentro de la carpeta src.
+2. Compila:
+   javac *.java
+3. Ejecuta:
+   java Main
+
+El programa incluye 5 cursos de ejemplo para que puedas probarlo inmediatamente.
+
+IMPORTANTE:
+- Para demostrar el árbol, usa la opción 6 antes de las opciones 7 y 8.
+- Para demostrar la búsqueda binaria, el programa ordena automáticamente por ID antes de buscar.
+- Para el caso del grafo, crea al menos 4 relaciones entre cursos.
+- El menú tiene dos funciones adicionales: comparar pasos de búsqueda y mostrar cursos disponibles.
+
+Para GitHub, sube la carpeta del proyecto y agrega capturas del funcionamiento y tu documentación.
