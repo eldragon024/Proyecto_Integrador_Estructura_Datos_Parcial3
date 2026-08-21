@@ -23,4 +23,10 @@
 - [HistorialAcciones.java](https://github.com/eldragon024/Proyecto_Integrador_Estructura_Datos_Parcial3/blob/main/src/HistorialAcciones.java) 
 
 ## Capturas
-- [Carpeta de capturas BV](https://github.com/eldragon024/Proyecto_Integrador_Estructura_Datos_Parcial3/tree/main/capturas) 
+- [Carpeta de capturas BV](https://github.com/eldragon024/Proyecto_Integrador_Estructura_Datos_Parcial3/tree/main/capturas)
+
+## Proyecto Juridico
+
+- [Index](https://github.com/eldragon024/Proyecto_Integrador_Estructura_Datos_Parcial3/blob/main/Pagina_web_Juridica/index.html)
+- [Script](https://github.com/eldragon024/Proyecto_Integrador_Estructura_Datos_Parcial3/blob/main/Pagina_web_Juridica/script.js)
+- [Stile](https://github.com/eldragon024/Proyecto_Integrador_Estructura_Datos_Parcial3/blob/main/Pagina_web_Juridica/style.css)
